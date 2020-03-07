@@ -6,4 +6,6 @@
  * Version: 0.0.1
  * Plugin URI: https://github.com/teknologi/tekno-dk-custom-post-types
  * Author: Hans Czajkowski Jørgensen
+ * Text Domain: teknocpt
+ * Domain Path: /languages
  */
