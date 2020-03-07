@@ -9,3 +9,27 @@
  * Text Domain: teknocpt
  * Domain Path: /languages
  */
+namespace Tekno_Cpt;
+
+if ( !defined( 'ABSPATH' ) )
+    exit;
+
+
+
+/**
+ *
+ */
+class Tekno_Cpt
+{
+
+    public function load()
+    {
+    }
+}
+
+function tekno_cpt_load() {
+    $tekno_cpt = new Tekno_Cpt();
+    $tekno_cpt->load();
+}
+
+add_action('plugins_loaded', 'Tekno_Cpt\tekno_cpt_load');
