@@ -1,0 +1,147 @@
+# Copyright (C) 2020 Hans Czajkowski Jørgensen
+# This file is distributed under the same license as the Tekno.dk custom post types plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tekno.dk custom post types 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tekno-dk-custom-post-types\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-07T20:31:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: teknocpt\n"
+
+#. Plugin Name of the plugin
+msgid "Tekno.dk custom post types"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/teknologi/tekno-dk-custom-post-types"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom post types and their relations for tekno.dk"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hans Czajkowski Jørgensen"
+msgstr ""
+
+#: custom_post_types/activity.php:7
+msgctxt "Post Type General Name"
+msgid "Activities"
+msgstr ""
+
+#: custom_post_types/activity.php:8
+msgctxt "Post Type Singular Name"
+msgid "Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:9
+#: custom_post_types/activity.php:11
+msgid "Activities"
+msgstr ""
+
+#: custom_post_types/activity.php:10
+#: custom_post_types/activity.php:36
+msgid "Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:12
+msgid "Activity Attributes"
+msgstr ""
+
+#: custom_post_types/activity.php:13
+msgid "Parent Activity:"
+msgstr ""
+
+#: custom_post_types/activity.php:14
+msgid "All Activities"
+msgstr ""
+
+#: custom_post_types/activity.php:15
+msgid "Add New Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:16
+msgid "Add New"
+msgstr ""
+
+#: custom_post_types/activity.php:17
+msgid "New Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:18
+msgid "Edit Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:19
+msgid "Update Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:20
+msgid "View Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:21
+msgid "View Activities"
+msgstr ""
+
+#: custom_post_types/activity.php:22
+msgid "Search Activity"
+msgstr ""
+
+#: custom_post_types/activity.php:23
+msgid "Not found"
+msgstr ""
+
+#: custom_post_types/activity.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: custom_post_types/activity.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: custom_post_types/activity.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: custom_post_types/activity.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: custom_post_types/activity.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: custom_post_types/activity.php:29
+msgid "Insert into activity"
+msgstr ""
+
+#: custom_post_types/activity.php:30
+msgid "Uploaded to this activity"
+msgstr ""
+
+#: custom_post_types/activity.php:31
+msgid "Activities list"
+msgstr ""
+
+#: custom_post_types/activity.php:32
+msgid "Activities list navigation"
+msgstr ""
+
+#: custom_post_types/activity.php:33
+msgid "Filter activities list"
+msgstr ""
+
+#: custom_post_types/activity.php:37
+msgid "Activities for projects"
+msgstr ""
+
+#: tekno-dk-custom-post-types.php:13
+msgid "string"
+msgstr ""
