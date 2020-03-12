@@ -31,9 +31,11 @@ class Tekno_Cpt
 
     public function load()
     {
-        include_once 'custom_post_type_declarations/activity.php';
-        include_once 'custom_post_type_declarations/project.php';
-        include_once 'custom_post_type_declarations/contact.php';
+        $cpt_file_names = array("activity", "project", "contact", "article");
+
+        foreach ($cpt_file_names as $cpt_file_name) {
+            include_once "custom_post_type_declarations/{$cpt_file_name}.php";
+        }
 
         include_once 'actions/contacts_auto_generate_slug_title.php';
 
