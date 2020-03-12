@@ -33,6 +33,10 @@ class Tekno_Cpt
     {
         include_once 'custom_post_type_declarations/activity.php';
         include_once 'custom_post_type_declarations/project.php';
+        include_once 'custom_post_type_declarations/contact.php';
+
+        include_once 'actions/contacts_auto_generate_slug_title.php';
+
     }
 }
 
