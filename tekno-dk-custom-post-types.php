@@ -32,6 +32,7 @@ class Tekno_Cpt
     public function load()
     {
         include_once 'custom_post_type_declarations/activity.php';
+        include_once 'custom_post_type_declarations/project.php';
     }
 }
 
