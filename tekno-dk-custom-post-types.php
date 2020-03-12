@@ -39,6 +39,7 @@ class Tekno_Cpt
 
         include_once 'actions/contacts_auto_generate_slug_title.php';
 
+        include_once 'taxonomies/roles.php';
     }
 }
 
